@@ -1,3 +1,4 @@
 # hello-world
-Not important
-Why are we still here? Just to suffer?
+My name is Ross Snyder. I technically completed this tutorial last year in september.
+Hope that's not a problem.
+
